@@ -1,0 +1,291 @@
+name = Catppuccin Mocha
+lookAndFeel = Flat Dark
+useDarkDefaults = true
+
+color.bg = #1e1e2e
+color.fg = #cdd6f4
+color.fg.error = #f38ba8
+color.fg.disabled = #585b70
+color.bg.uneditable = #181825
+
+color.cursor.focused = #f5e0dc
+color.cursor.unfocused = #585b70
+
+color.bg.selection = #45475a
+color.bg.highlight = #313244
+color.bg.currentline = #262637
+
+color.bg.find.highlight = #45475a
+color.bg.find.highlight.active = #585b70
+
+color.bg.filterfield = #313244
+color.fg.filterfield = #cdd6f4
+
+color.fg.messages.hint = #9399b2
+color.fg.messages.alert = #fab387
+color.fg.messages.error = #f38ba8
+color.fg.messages.normal = #89b4fa
+color.fg.messages.warning = #f9e2af
+
+color.palette.black = #585b70
+color.palette.white = #cdd6f4
+color.palette.red = #f38ba8
+color.palette.green = #a6e3a1
+color.palette.blue = #89b4fa
+color.palette.yellow = #f9e2af
+color.palette.orange = #fab387
+color.palette.cyan = #89dceb
+color.palette.magenta = #f5c2e7
+color.palette.pink = #f5c2e7
+color.palette.purple = #cba6f7
+color.palette.gray = #7f849c
+color.palette.darkgray = #45475a
+color.palette.lightgray = #45475a
+color.palette.darkgreen = #a6e3a1
+color.palette.darkcyan = #94e2d5
+color.palette.darkorange = #fab387
+color.palette.darkred = #eba0ac
+color.palette.navy = #b4befe
+color.palette.olive = #f2cdcd
+color.palette.teal = #94e2d5
+color.palette.gold = #f9e2af
+color.palette.crimson = #f38ba8
+color.palette.fuchsia = #f5c2e7
+color.palette.lime = #a6e3a1
+color.palette.limegreen = #a6e3a1
+color.palette.maroon = #eba0ac
+color.palette.indigo = #cba6f7
+color.palette.blueviolet = #9399b2
+color.palette.cornflowerblue = #89b4fa
+color.palette.dodgerblue = #74c7ec
+color.palette.steelblue = #74c7ec
+color.palette.slateblue = #cba6f7
+color.palette.saddlebrown = #fab387
+color.palette.silver = #313244
+color.palette.tan = #45475a
+color.palette.khaki = #f9e2af
+color.palette.darkkhaki = #f9e2af
+color.palette.lightcoral = #eba0ac
+color.palette.lightgreen = #313244
+color.palette.lightskyblue = #313244
+color.palette.lightsteelblue = #313244
+color.palette.lightpink = #f5c2e7
+color.palette.palegreen = #313244
+color.palette.lavender = #cba6f7
+color.palette.aliceblue = #262637
+color.palette.cornsilk = #313244
+color.palette.mistyrose = #45475a
+color.palette.lemonchiffon = #313244
+color.palette.lightcornflowerblue = #89b4fa
+color.palette.lightpurple = #cba6f7
+color.palette.yellowgreen = #a6e3a1
+color.palette.darkslategray = #6c7086
+color.palette.greenyellow = #a6e3a1
+color.palette.hint = #9399b2
+color.palette.error = #f38ba8
+color.palette.highlight.transparent.yellow = rgba(249,226,175,0.25)
+
+color.bg.table.row = #1e1e2e
+color.bg.table.row.alt = #181825
+color.bg.table.grid = #313244
+color.bg.table.row.drag = #313244
+color.fg.table.uneditable.selected = #f9e2af
+color.fg.table.uneditable.unselected = #6c7086
+
+color.bg.tree = #1e1e2e
+color.bg.tree.drag = #313244
+
+color.bg.header.active = #45475a
+color.bg.header.inactive = #313244
+color.fg.header.active = #cdd6f4
+color.fg.header.inactive = #a6adc8
+color.header.drag.cursor = #cdd6f4
+
+color.bg.textfield.hint.valid = #1e1e2e
+color.bg.textfield.hint.invalid = #45475a
+color.fg.textfield.hint = #9399b2
+
+color.border.bevel.highlight = #45475a
+color.border.bevel.shadow = #11111b
+color.border.provider.disconnected = #fab387
+
+color.fg.button = #cdd6f4
+
+color.bg.formatted.field.error = #45475a
+color.bg.formatted.field.editing = #313244
+color.fg.formatted.field.editing = #cdd6f4
+
+color.bg.splashscreen = #11111b
+color.fg.splashscreen = #9399b2
+
+color.bg.listing = #1e1e2e
+color.bg.currentline.listing = #262637
+color.bg.selection.listing = #45475a
+color.bg.highlight.listing = #313244
+color.bg.highlight.listing.diff = #313244
+
+color.cursor.focused.listing = #f5e0dc
+color.cursor.unfocused.listing = #585b70
+
+color.fg.listing.address = #a6adc8
+color.fg.listing.bytes = #fab387
+color.fg.listing.constant = #fab387
+
+color.fg.listing.comment.auto = #7f849c
+color.fg.listing.comment.eol = #9399b2
+color.fg.listing.comment.repeatable = #9399b2
+color.fg.listing.comment.ref.repeatable = #7f849c
+color.fg.listing.comment.plate = #6c7086
+color.fg.listing.comment.post = #9399b2
+color.fg.listing.comment.pre = #9399b2
+
+color.fg.listing.function.name = #89b4fa
+color.fg.listing.function.name.thunk = #89b4fa
+color.fg.listing.function.param = #eba0ac
+color.fg.listing.function.param.auto = #7f849c
+color.fg.listing.function.param.custom = #cba6f7
+color.fg.listing.function.param.dynamic = #94e2d5
+color.fg.listing.function.return.type = #f9e2af
+color.fg.listing.function.variable = #f2cdcd
+color.fg.listing.function.variable.assigned = #f2cdcd
+color.fg.listing.function.tag = #cba6f7
+color.fg.listing.function.callfixup = #f5c2e7
+color.fg.listing.function.purge = #89b4fa
+color.fg.listing.function.source = #cdd6f4
+
+color.fg.listing.label.local = #a6e3a1
+color.fg.listing.label.primary = #89b4fa
+color.fg.listing.label.non.primary = #f2cdcd
+color.fg.listing.label.unreferenced = #6c7086
+
+color.fg.listing.mnemonic = #cba6f7
+color.fg.listing.mnemonic.override = #f5c2e7
+color.fg.listing.mnemonic.unimplemented = #6c7086
+
+color.fg.listing.register = #f2cdcd
+
+color.fg.listing.xref = #94e2d5
+color.fg.listing.xref.offcut = #6c7086
+color.fg.listing.xref.read = #89b4fa
+color.fg.listing.xref.write = #fab387
+color.fg.listing.xref.other = #a6adc8
+
+color.fg.listing.ext.entrypoint = #f5c2e7
+color.fg.listing.ext.ref.resolved = #94e2d5
+
+color.fg.listing.flow.arrow.active = #cdd6f4
+color.fg.listing.flow.arrow.inactive = #45475a
+color.fg.listing.flow.arrow.selected = #a6e3a1
+
+color.fg.listing.separator = #45475a
+color.fg.listing.underline = #89b4fa
+
+color.fg.listing.pcode.label = #89b4fa
+color.fg.listing.pcode.address.space = #74c7ec
+color.fg.listing.pcode.varnode = #f2cdcd
+color.fg.listing.pcode.userop = #cba6f7
+
+color.fg.listing.stack.depth = #89b4fa
+
+color.fg.listing.fieldname = #bac2de
+color.fg.listing.block.start = #cba6f7
+color.fg.listing.instruction.parallel = #89b4fa
+color.fg.listing.mask.bits = #b4befe
+color.fg.listing.mask.value = #a6e3a1
+color.fg.listing.mask.label = #cdd6f4
+
+color.bg.listing.comparison.bytes = #313244
+color.bg.listing.comparison.mnemonic = #313244
+color.bg.listing.comparison.operand = #313244
+color.bg.listing.comparison.code.units.diff = #45475a
+color.bg.listing.comparison.code.units.unmatched = #313244
+
+color.bg.listing.error = #45475a
+
+color.bg.listing.highlighter.middle.mouse = #45475a
+color.bg.listing.highlighter.scoped.read = #313244
+color.bg.listing.highlighter.scoped.write = #313244
+
+color.bg.decompiler = #1e1e2e
+color.fg.decompiler = #cdd6f4
+color.fg.decompiler.keyword = #cba6f7
+color.fg.decompiler.comment = #9399b2
+color.fg.decompiler.variable = #f2cdcd
+color.fg.decompiler.constant = #fab387
+color.fg.decompiler.type = #f9e2af
+color.fg.decompiler.parameter = #eba0ac
+color.fg.decompiler.global = #94e2d5
+color.fg.decompiler.special = #f38ba8
+color.fg.decompiler.error = #f38ba8
+color.fg.decompiler.external.function = #f5c2e7
+
+color.bg.decompiler.current.variable = rgba(249,226,175,0.2)
+color.bg.decompiler.highlights.middle.mouse = #313244
+color.bg.decompiler.highlights.default = rgba(249,226,175,0.15)
+color.bg.decompiler.highlights.special = #45475a
+color.bg.decompiler.highlights.find = #45475a
+
+color.flowtype.fall.through = #f38ba8
+color.flowtype.jump.conditional = #a6e3a1
+color.flowtype.jump.unconditional = #89b4fa
+
+color.bg.undefined = #262637
+
+color.bg.plugin.terminal = #1e1e2e
+color.fg.plugin.terminal = #cdd6f4
+color.cursor.focused.terminal = #f5e0dc
+color.cursor.unfocused.terminal = #585b70
+
+color.fg.plugin.terminal.normal.black = #45475a
+color.fg.plugin.terminal.normal.red = #f38ba8
+color.fg.plugin.terminal.normal.green = #a6e3a1
+color.fg.plugin.terminal.normal.yellow = #f9e2af
+color.fg.plugin.terminal.normal.blue = #89b4fa
+color.fg.plugin.terminal.normal.magenta = #f5c2e7
+color.fg.plugin.terminal.normal.cyan = #94e2d5
+color.fg.plugin.terminal.normal.white = #bac2de
+
+color.fg.plugin.terminal.bright.black = #585b70
+color.fg.plugin.terminal.bright.red = #f38ba8
+color.fg.plugin.terminal.bright.green = #a6e3a1
+color.fg.plugin.terminal.bright.yellow = #f9e2af
+color.fg.plugin.terminal.bright.blue = #89b4fa
+color.fg.plugin.terminal.bright.magenta = #f5c2e7
+color.fg.plugin.terminal.bright.cyan = #94e2d5
+color.fg.plugin.terminal.bright.white = #a6adc8
+
+color.fg.plugin.terminal.dim.black = #313244
+color.fg.plugin.terminal.dim.red = #eba0ac
+color.fg.plugin.terminal.dim.green = #a6e3a1
+color.fg.plugin.terminal.dim.yellow = #f9e2af
+color.fg.plugin.terminal.dim.blue = #74c7ec
+color.fg.plugin.terminal.dim.magenta = #f2cdcd
+color.fg.plugin.terminal.dim.cyan = #89dceb
+color.fg.plugin.terminal.dim.white = #9399b2
+
+color.bg.interpreterconsole = #1e1e2e
+color.fg.interpreterconsole = #cdd6f4
+color.fg.interpreterconsole.error = #f38ba8
+color.fg.consoletextpane = #cdd6f4
+color.fg.consoletextpane.error = #f38ba8
+
+color.bg.plugin.bookmark.analysis = #fab387
+color.bg.plugin.bookmark.default = #cba6f7
+color.bg.plugin.bookmark.error = #f38ba8
+color.bg.plugin.bookmark.info = #89dceb
+color.bg.plugin.bookmark.note = #b4befe
+color.bg.plugin.bookmark.warning = #f9e2af
+
+color.bg.plugin.overview.defalt = #45475a
+color.bg.plugin.overview.address.data = #a6e3a1
+color.bg.plugin.overview.address.function = #cba6f7
+color.bg.plugin.overview.address.external.ref = #eba0ac
+color.bg.plugin.overview.address.instruction = #89b4fa
+color.bg.plugin.overview.address.undefined = #f38ba8
+color.bg.plugin.overview.address.uninitialized = #11111b
+
+color.bg.search.highlight = #45475a
+color.bg.search.highlight.current.line = #585b70
+
+[laf.color]Viewport.background = #1e1e2e
+[laf.color]Table.selectionInactiveBackground = #313244
